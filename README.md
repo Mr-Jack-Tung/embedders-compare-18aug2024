@@ -1,4 +1,4 @@
-# Embedders comparison 18Aug2024
+# (report) Embedders comparison 18Aug2024
 
 - PDF reader: pypdf
 - source: Vision Space Exploration_p1-3.pdf
