@@ -52,3 +52,5 @@
 
 ## REFERENCE
 - https://www.answer.ai/posts/2024-08-13-small-but-mighty-colbert.html
+
+![alt-text](https://github.com/Mr-Jack-Tung/embedders-compare-18aug2024/blob/main/Performance%20comparison%20of%20embedders.jpg)
