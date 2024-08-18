@@ -49,3 +49,6 @@
 **Embedder : snowflake-arctic-embed:22m (22M params)**
 - ollama pull snowflake-arctic-embed:22m
 - MAX_SCORE_RETRIEVAL: 16.331 %
+
+## REFERENCE
+- https://www.answer.ai/posts/2024-08-13-small-but-mighty-colbert.html
