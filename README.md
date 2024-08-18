@@ -1,7 +1,9 @@
 # (report) Embedders comparison 18Aug2024
+- Created: 18 Aug 2024
+- Author: Mr.Jack
 
+**Source: Vision Space Exploration_p1-3.pdf**
 - PDF reader: pypdf
-- source: Vision Space Exploration_p1-3.pdf
 - https://www.nasa.gov/wp-content/uploads/2023/01/55583main_vision_space_exploration2.pdf
 - prompt: When Christopher Columbus made his voyages?
 - function: chrome_vectorstore.similarity_search_with_score()
