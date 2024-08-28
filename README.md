@@ -38,6 +38,10 @@
 - ollama pull nomic-embed-text
 - MAX_SCORE_RETRIEVAL: 31.979 %
 
+**Embedder : mxbai-embed-large (335M params)**
+- ollama pull mxbai-embed-large
+- MAX_SCORE_RETRIEVAL: 28.573 %
+
 **Embedder : jina/jina-embeddings-v2-base-en (137M params)**
 - ollama pull jina/jina-embeddings-v2-base-en
 - MAX_SCORE_RETRIEVAL: 20.995 %
